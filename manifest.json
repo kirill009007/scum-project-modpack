@@ -4,7 +4,8 @@
   "files": [
     {
       "name": "SCUM_AttributeRebalanceMod.pak",
-      "url": "https://github.com/kirill009007/scum-project-modpack/releases/download/v1.0.0/SCUM_AttributeRebalanceMod.pak"
+      "url": "https://github.com/kirill009007/scum-project-modpack/releases/download/v1.0.0/SCUM_AttributeRebalanceMod.pak",
+      "sha256": "240d300c9e7a737968fa4611d5c0bc37a486cfebfa8e9b36ade72c4e3279d06e"
     }
   ]
 }
