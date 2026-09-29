@@ -1,11 +1,11 @@
 {
-  "modpackVersion": "1.0.7",
+  "modpackVersion": "1.0.8",
   "name": "SCUM Project Modpack",
   "files": [
     {
-      "name": "StackablePickingGear1.1_P.pak",
-      "url": "https://github.com/kirill009007/scum-project-modpack/releases/download/v1.0.7/StackablePickingGear1.1_P.pak",
-      "sha256": "b4dad8a06d6ce5e5678e72f52277d1051f93ac6b0425e10c2bfa5c056c274d0b"
+      "name": "Floor_TypeFloor_InfTrue_StabMax_DoubleEnd.pak",
+      "url": "https://github.com/kirill009007/scum-project-modpack/releases/download/v1.0.8/Floor_TypeFloor_InfTrue_StabMax_DoubleEnd.pak",
+      "sha256": "d5e109e40222e103bdc77a34ed5436823e9a7507185797c6003a921885c58a84"
     }
   ]
 }
