@@ -1,95 +1,100 @@
 {
-  "modpackVersion": "1.0.14",
+  "modpackVersion": "1.0.15",
   "name": "SCUM Project Modpack",
   "files": [
     {
       "name": "Ammo2x_P.pak",
-      "url": "https://github.com/kirill009007/scum-project-modpack/releases/download/v1.0.14/Ammo2x_P.pak",
+      "url": "https://github.com/kirill009007/scum-project-modpack/releases/download/v1.0.15/Ammo2x_P.pak",
       "sha256": "d8f3617a116c81915481290b376e87a5652627671460ec9329a2f8c27b22665b"
     },
     {
       "name": "Armour1.1_P.pak",
-      "url": "https://github.com/kirill009007/scum-project-modpack/releases/download/v1.0.14/Armour1.1_P.pak",
+      "url": "https://github.com/kirill009007/scum-project-modpack/releases/download/v1.0.15/Armour1.1_P.pak",
       "sha256": "3be3e93ced946c0e5909e319f48e9313de8587c12a3b5485119fed7d916f78fd"
     },
     {
       "name": "Arrows1.1_P.pak",
-      "url": "https://github.com/kirill009007/scum-project-modpack/releases/download/v1.0.14/Arrows1.1_P.pak",
+      "url": "https://github.com/kirill009007/scum-project-modpack/releases/download/v1.0.15/Arrows1.1_P.pak",
       "sha256": "efa337489c9ec4f9338c2c7a1e4bf6f933c793ae7eb088991059107fd217a8d5"
     },
     {
+      "name": "Backpack_Volume_P.pak",
+      "url": "https://github.com/kirill009007/scum-project-modpack/releases/download/v1.0.15/Backpack_Volume_P.pak",
+      "sha256": "07c4138c1ad780e7ed90130c4fc87e6a8ba95ea13102276f8e81d3c7f49bf831"
+    },
+    {
       "name": "CookingTimeHalved0.2_P.pak",
-      "url": "https://github.com/kirill009007/scum-project-modpack/releases/download/v1.0.14/CookingTimeHalved0.2_P.pak",
+      "url": "https://github.com/kirill009007/scum-project-modpack/releases/download/v1.0.15/CookingTimeHalved0.2_P.pak",
       "sha256": "216a6bcd900da3ba2b4aa9d449fd8af54b77383106dd71529dd3e48191806a16"
     },
     {
       "name": "Demoupto2x_P.pak",
-      "url": "https://github.com/kirill009007/scum-project-modpack/releases/download/v1.0.14/Demoupto2x_P.pak",
+      "url": "https://github.com/kirill009007/scum-project-modpack/releases/download/v1.0.15/Demoupto2x_P.pak",
       "sha256": "bfe7a82e0df54367d5d8f93cfcdb0c632486f65e310dddf1566154ffb4511038"
     },
     {
       "name": "Electricity2xClient0.2_P.pak",
-      "url": "https://github.com/kirill009007/scum-project-modpack/releases/download/v1.0.14/Electricity2xClient0.2_P.pak",
+      "url": "https://github.com/kirill009007/scum-project-modpack/releases/download/v1.0.15/Electricity2xClient0.2_P.pak",
       "sha256": "ed0048af818d2e36058bdfc0a8f2f3b6a4300022e4e9969ddae30988ae0939e6"
     },
     {
       "name": "Hikingbag2x0.45_P.pak",
-      "url": "https://github.com/kirill009007/scum-project-modpack/releases/download/v1.0.14/Hikingbag2x0.45_P.pak",
+      "url": "https://github.com/kirill009007/scum-project-modpack/releases/download/v1.0.15/Hikingbag2x0.45_P.pak",
       "sha256": "0139b5c679a1e4bffd5559343e38ea4463703a4be2e47bbba135962927ef7c81"
     },
     {
       "name": "Magazines2x0.2_P.pak",
-      "url": "https://github.com/kirill009007/scum-project-modpack/releases/download/v1.0.14/Magazines2x0.2_P.pak",
+      "url": "https://github.com/kirill009007/scum-project-modpack/releases/download/v1.0.15/Magazines2x0.2_P.pak",
       "sha256": "3646020078c9b4101509bfed97046580152616349f488538f40e794083e647ff"
     },
     {
       "name": "NoNutrientGood_P.pak",
-      "url": "https://github.com/kirill009007/scum-project-modpack/releases/download/v1.0.14/NoNutrientGood_P.pak",
+      "url": "https://github.com/kirill009007/scum-project-modpack/releases/download/v1.0.15/NoNutrientGood_P.pak",
       "sha256": "61eec504adf4fb56985a448ff34aa973436ed4d974e42059c98bcb82bd990309"
     },
     {
       "name": "Quiver_P.pak",
-      "url": "https://github.com/kirill009007/scum-project-modpack/releases/download/v1.0.14/Quiver_P.pak",
+      "url": "https://github.com/kirill009007/scum-project-modpack/releases/download/v1.0.15/Quiver_P.pak",
       "sha256": "eeab3bf60055432f50564d4dd3f4fb23fe4fbf974bb89276dd826f5f103dba09"
     },
     {
       "name": "Reload4x_P.pak",
-      "url": "https://github.com/kirill009007/scum-project-modpack/releases/download/v1.0.14/Reload4x_P.pak",
+      "url": "https://github.com/kirill009007/scum-project-modpack/releases/download/v1.0.15/Reload4x_P.pak",
       "sha256": "c79ae0949f87e5218b52690f80330b2fd03f92af4340e2ee308bdde462ac5474"
     },
     {
       "name": "StackablePickingGear1.1_P.pak",
-      "url": "https://github.com/kirill009007/scum-project-modpack/releases/download/v1.0.14/StackablePickingGear1.1_P.pak",
+      "url": "https://github.com/kirill009007/scum-project-modpack/releases/download/v1.0.15/StackablePickingGear1.1_P.pak",
       "sha256": "b4dad8a06d6ce5e5678e72f52277d1051f93ac6b0425e10c2bfa5c056c274d0b"
     },
     {
       "name": "StackQuantIncrease0.22_P.pak",
-      "url": "https://github.com/kirill009007/scum-project-modpack/releases/download/v1.0.14/StackQuantIncrease0.22_P.pak",
+      "url": "https://github.com/kirill009007/scum-project-modpack/releases/download/v1.0.15/StackQuantIncrease0.22_P.pak",
       "sha256": "d7fce8d6f612cbac4e36ae0fa40941196e769ff684f74f697ecc239e98a28f2d"
     },
     {
       "name": "Toolkits_P.pak",
-      "url": "https://github.com/kirill009007/scum-project-modpack/releases/download/v1.0.14/Toolkits_P.pak",
+      "url": "https://github.com/kirill009007/scum-project-modpack/releases/download/v1.0.15/Toolkits_P.pak",
       "sha256": "0775428bc3297195cfa9308885b498b61c3be3673e036c051edea3acf3de8be6"
     },
     {
       "name": "Trenchgun_P.pak",
-      "url": "https://github.com/kirill009007/scum-project-modpack/releases/download/v1.0.14/Trenchgun_P.pak",
+      "url": "https://github.com/kirill009007/scum-project-modpack/releases/download/v1.0.15/Trenchgun_P.pak",
       "sha256": "2c0047d9c1efdad11d43b749a7c17c546371affd15792e72351393864fce2d98"
     },
     {
       "name": "Vehiclestorage0.3plane_P.pak",
-      "url": "https://github.com/kirill009007/scum-project-modpack/releases/download/v1.0.14/Vehiclestorage0.3plane_P.pak",
+      "url": "https://github.com/kirill009007/scum-project-modpack/releases/download/v1.0.15/Vehiclestorage0.3plane_P.pak",
       "sha256": "27dabf00f606caadcdfb78257a8ccdef476f0c8c696a196d01fe3a6cdd69d59c"
     },
     {
       "name": "WaistBelts_P.pak",
-      "url": "https://github.com/kirill009007/scum-project-modpack/releases/download/v1.0.14/WaistBelts_P.pak",
+      "url": "https://github.com/kirill009007/scum-project-modpack/releases/download/v1.0.15/WaistBelts_P.pak",
       "sha256": "884d226c481555f49e271f3caec6cddac8079df20b4c3d8aafddaa72d122f706"
     },
     {
       "name": "Well3x_P.pak",
-      "url": "https://github.com/kirill009007/scum-project-modpack/releases/download/v1.0.14/Well3x_P.pak",
+      "url": "https://github.com/kirill009007/scum-project-modpack/releases/download/v1.0.15/Well3x_P.pak",
       "sha256": "1c3e94834fd6f7e4de7157bece77f9fd925ded8fcb273fed1f0dc22156ab6a1b"
     }
   ]
