@@ -1,21 +1,26 @@
 {
-  "modpackVersion": "1.0.20",
+  "modpackVersion": "1.0.21",
   "name": "SCUM Project Modpack",
   "files": [
     {
       "name": "Cargodroplvl5spaced0.5_P.pak",
-      "url": "https://github.com/kirill009007/scum-project-modpack/releases/download/v1.0.20/Cargodroplvl5spaced0.5_P.pak",
+      "url": "https://github.com/kirill009007/scum-project-modpack/releases/download/v1.0.21/Cargodroplvl5spaced0.5_P.pak",
       "sha256": "bd0dd937a1a6c48f627a9ee30e801fa534509d9b3ee0877691dbf10a553641b8"
     },
     {
       "name": "NinjaspawnkitDLCtoppantsnogun0.3_P.pak",
-      "url": "https://github.com/kirill009007/scum-project-modpack/releases/download/v1.0.20/NinjaspawnkitDLCtoppantsnogun0.3_P.pak",
+      "url": "https://github.com/kirill009007/scum-project-modpack/releases/download/v1.0.21/NinjaspawnkitDLCtoppantsnogun0.3_P.pak",
       "sha256": "017cd8b05bec7538e6158b59420f02745b129ec80570928798301d12a4c0af57"
     },
     {
       "name": "StrConstDex8x_P.pak",
-      "url": "https://github.com/kirill009007/scum-project-modpack/releases/download/v1.0.20/StrConstDex8x_P.pak",
+      "url": "https://github.com/kirill009007/scum-project-modpack/releases/download/v1.0.21/StrConstDex8x_P.pak",
       "sha256": "2db670d38bad71d6032301c15dad68942279c87458ac2f909b2de2115f0d023e"
+    },
+    {
+      "name": "UNBOUND_INVISIBLE_P.pak",
+      "url": "https://github.com/kirill009007/scum-project-modpack/releases/download/v1.0.21/UNBOUND_INVISIBLE_P.pak",
+      "sha256": "f86baa17c1abff84324bf7d8b63ba2418f7697eaa30192f6a150ae94fa6d151a"
     }
   ]
 }
