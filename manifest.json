@@ -1,45 +1,50 @@
 {
-  "modpackVersion": "1.0.25",
+  "modpackVersion": "1.0.26",
   "name": "SCUM Project Modpack",
   "files": [
     {
       "name": "Ammo2x_P.pak",
-      "url": "https://github.com/kirill009007/scum-project-modpack/releases/download/v1.0.25/Ammo2x_P.pak",
+      "url": "https://github.com/kirill009007/scum-project-modpack/releases/download/v1.0.26/Ammo2x_P.pak",
       "sha256": "d8f3617a116c81915481290b376e87a5652627671460ec9329a2f8c27b22665b"
     },
     {
       "name": "Demoupto2x_P.pak",
-      "url": "https://github.com/kirill009007/scum-project-modpack/releases/download/v1.0.25/Demoupto2x_P.pak",
+      "url": "https://github.com/kirill009007/scum-project-modpack/releases/download/v1.0.26/Demoupto2x_P.pak",
       "sha256": "bfe7a82e0df54367d5d8f93cfcdb0c632486f65e310dddf1566154ffb4511038"
     },
     {
       "name": "Magazines2x0.2_P.pak",
-      "url": "https://github.com/kirill009007/scum-project-modpack/releases/download/v1.0.25/Magazines2x0.2_P.pak",
+      "url": "https://github.com/kirill009007/scum-project-modpack/releases/download/v1.0.26/Magazines2x0.2_P.pak",
       "sha256": "3646020078c9b4101509bfed97046580152616349f488538f40e794083e647ff"
     },
     {
       "name": "NinjaspawnkitDLCtoppantsnogun0.3_P.pak",
-      "url": "https://github.com/kirill009007/scum-project-modpack/releases/download/v1.0.25/NinjaspawnkitDLCtoppantsnogun0.3_P.pak",
+      "url": "https://github.com/kirill009007/scum-project-modpack/releases/download/v1.0.26/NinjaspawnkitDLCtoppantsnogun0.3_P.pak",
       "sha256": "017cd8b05bec7538e6158b59420f02745b129ec80570928798301d12a4c0af57"
     },
     {
       "name": "StackablePickingGear1.1_P.pak",
-      "url": "https://github.com/kirill009007/scum-project-modpack/releases/download/v1.0.25/StackablePickingGear1.1_P.pak",
+      "url": "https://github.com/kirill009007/scum-project-modpack/releases/download/v1.0.26/StackablePickingGear1.1_P.pak",
       "sha256": "b4dad8a06d6ce5e5678e72f52277d1051f93ac6b0425e10c2bfa5c056c274d0b"
     },
     {
       "name": "StackQuantIncrease0.22_P.pak",
-      "url": "https://github.com/kirill009007/scum-project-modpack/releases/download/v1.0.25/StackQuantIncrease0.22_P.pak",
+      "url": "https://github.com/kirill009007/scum-project-modpack/releases/download/v1.0.26/StackQuantIncrease0.22_P.pak",
       "sha256": "d7fce8d6f612cbac4e36ae0fa40941196e769ff684f74f697ecc239e98a28f2d"
     },
     {
+      "name": "UNBOUND_Inventar.pak",
+      "url": "https://github.com/kirill009007/scum-project-modpack/releases/download/v1.0.26/UNBOUND_Inventar.pak",
+      "sha256": "6e76b8d8e56f171fd2b1bccd595e9c9c3b921eb33020b27d09188667b4d733c7"
+    },
+    {
       "name": "UNBOUND_INVISIBLE_P.pak",
-      "url": "https://github.com/kirill009007/scum-project-modpack/releases/download/v1.0.25/UNBOUND_INVISIBLE_P.pak",
+      "url": "https://github.com/kirill009007/scum-project-modpack/releases/download/v1.0.26/UNBOUND_INVISIBLE_P.pak",
       "sha256": "f86baa17c1abff84324bf7d8b63ba2418f7697eaa30192f6a150ae94fa6d151a"
     },
     {
       "name": "UNBOUND_Vehicles.pak",
-      "url": "https://github.com/kirill009007/scum-project-modpack/releases/download/v1.0.25/UNBOUND_Vehicles.pak",
+      "url": "https://github.com/kirill009007/scum-project-modpack/releases/download/v1.0.26/UNBOUND_Vehicles.pak",
       "sha256": "fe3494351f730172ac9c6280c10eb6e4b4b8a3a788472bd515b5b51b55600f84"
     }
   ]
